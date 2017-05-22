@@ -1,2 +1,3 @@
 # AhoCorasick
-AhoCorasick, AC自动机
+
+AhoCorasick for python3
